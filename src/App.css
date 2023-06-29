@@ -84,3 +84,8 @@ main {
   color: #ffffff;
   font-family: Karla;
 }
+
+.meme-img {
+  margin-top: 36px;
+  max-width: 100%;
+}
